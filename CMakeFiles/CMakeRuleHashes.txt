@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+be0422fa95362e026fd79ef46770fa18 moc_SamplePlugin.cxx
+ed2cb4c3c116723e1e5beb4e3b051571 qrc_resources.cxx
+7c601485abd47dea81d7a50a1656b922 ui_SamplePlugin.h
